@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/chetnashah/list-of-cheeses"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chetnashah/list-of-cheeses"
+  },
   "license": "ISC"
 }
