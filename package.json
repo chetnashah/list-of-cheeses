@@ -7,7 +7,7 @@
     "example": "example"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha",
     "prepublish": "echo \"Prepublish-ing\"",
     "install": "echo \"install-ing\""
   },
@@ -23,5 +23,9 @@
     "type": "git",
     "url": "git://github.com/chetnashah/list-of-cheeses"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
 }
