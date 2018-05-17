@@ -122,7 +122,7 @@ module.exports = ["Abbaye de Belloc", "Abbaye du Mont des Cats", "Abertam", "Abo
 "Tomme de Chevre", "Tomme de Romans", "Tomme de Savoie", "Tomme des Chouans", "Tommes",
 "Torta del Casar", "Toscanello", "Touree de L'Aubier", "Tourmalet",
 "Trappe (Veritable)", "Trois Cornes De Vendee", "Tronchon", "Trou du Cru", "Truffe",
-"Tupi", "Turunmaa", "Tymsboro", "Tyn Grug", "Tyning", "Ubriaco", "Ulloa",
+"Tupi", "Turunmaa", "Tymsboro", "Tyn Grug", "Ubriaco", "Ulloa",
 "Vacherin-Fribourgeois", "Valencay", "Vasterbottenost", "Venaco", "Vendomois",
 "Vieux Corse", "Vignotte", "Vulscombe", "Waimata Farmhouse Blue",
 "Washed Rind Cheese (Australian)", "Waterloo", "Weichkaese", "Wellington",
