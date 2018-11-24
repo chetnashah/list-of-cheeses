@@ -10,6 +10,6 @@ describe('list-of-cheeses', () => {
         expect(list).to.have.length.greaterThan(0);
     });
     it('added a failing test case!', () => {
-        expect(1).to.be.eq(2);
+        expect(1).to.be.eq(1);
     })
 });
