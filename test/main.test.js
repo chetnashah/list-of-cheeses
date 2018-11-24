@@ -9,4 +9,7 @@ describe('list-of-cheeses', () => {
         const list = require('../src/');
         expect(list).to.have.length.greaterThan(0);
     });
+    it('added a failing test case!', () => {
+        expect(1).to.be.eq(2);
+    })
 });
